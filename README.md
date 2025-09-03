@@ -1,5 +1,5 @@
-# gulls-notebooks
-A repository for examples of gulls postprocessing and utility functions
+# gulls-postprocessing
+A repository for examples of gulls postprocessing, visualizations, and utility functions
 
 # Using the repository
 1. Make a fork of the repository to your own github account
