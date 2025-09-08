@@ -3,10 +3,6 @@
 """
 gulls_viz.py
 
-Author: Farzaneh Zohrabi
-Date: August 2025
-Affiliation: Louisiana State University / RGES PIT
-
 Part of the gulls microlensing simulation pipeline.
 
 Generates visual panels for simulated microlensing events, including:
@@ -16,7 +12,7 @@ inspection, validation.
 
 """
 __author__ = "Farzaneh Zohrabi"
-__date__ = "2025-08-26"
+__date__ = "2025-09-08"
 __version__ = "1.0"
 
 
